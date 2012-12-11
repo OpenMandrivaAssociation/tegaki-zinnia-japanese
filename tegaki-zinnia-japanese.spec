@@ -33,3 +33,10 @@ rm -rf %{buildroot}
 %files
 %defattr (-,root,root)
 %{_datadir}/tegaki/models/zinnia/*
+
+
+%changelog
+* Tue Nov 02 2010 Funda Wang <fwang@mandriva.org> 0.3-1mdv2011.0
++ Revision: 592311
+- import tegaki-zinnia-japanese
+
