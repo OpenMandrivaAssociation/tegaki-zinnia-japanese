@@ -1,7 +1,7 @@
 Summary: Japanese Models for tegaki zinnia engine
 Name: tegaki-zinnia-japanese
 Version: 0.3
-Release: %mkrel 1
+Release: 2
 License: GPLv2+
 Group: System/Internationalization
 Source0: http://www.tegaki.org/releases/0.3/models/tegaki-zinnia-japanese-0.3.zip
