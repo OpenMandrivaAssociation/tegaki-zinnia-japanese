@@ -5,7 +5,7 @@ Release: 2
 License: GPLv2+
 Group: System/Internationalization
 Source0: http://www.tegaki.org/releases/0.3/models/tegaki-zinnia-japanese-0.3.zip
-URL: http://www.tegaki.org
+URL: https://www.tegaki.org
 Buildroot: %{_tmppath}/%{name}-%{version}-buildroot
 BuildArch: noarch
 Requires: locales-ja
